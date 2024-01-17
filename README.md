@@ -1,1 +1,11 @@
-# Blood-tool-free-version-v1
+# Blood-tool-free-version
+
+### Fast raid
+####  Menu with options
+####  Spanish // english tool
+
+Open the install.bat file and install all required modules.
+
+After that go to config.json and where it says "token bot here" put the token of your bot.
+
+Then open start.bat and have fun with the free version of our tool.
