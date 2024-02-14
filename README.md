@@ -20,7 +20,4 @@ Example
 Then open start.bat and have fun with the free version of our tool.
 
 if you need help click here
-  [discord](https://discord.gg/qcRpgtjXRg)
-
-Exeucte on your console. npm i
-And install all requirements!!
+  [discord](https://discord.gg/idh)
